@@ -1,0 +1,159 @@
+{
+  "total_cases": 15,
+  "passed_cases": 15,
+  "score_percentage": 100.0,
+  "threshold": 85.0,
+  "overall_passed": true,
+  "details": [
+    {
+      "case_id": 1,
+      "input": "Remind me to call Mom tomorrow at 5pm",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 2,
+      "input": "Set a reminder for meeting on 2026-11-20 at 10:00",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 3,
+      "input": "Remind me later",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 4,
+      "input": "Buy groceries",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 5,
+      "input": "Remind me at 9am",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 6,
+      "input": "Snooze my current alarm by 15 minutes",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 7,
+      "input": "Cancel tomorrow's doctor appointment reminder",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 8,
+      "input": "Remind me on Feb 29 next leap year to renew passport",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 9,
+      "input": "asdfghjkl12345",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 10,
+      "input": "Remind me to pay bills every Friday at 6pm",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 11,
+      "input": "Do I have any reminders set for tomorrow?",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 12,
+      "input": "Remind me to submit BITS assignment before 11:59 PM",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 13,
+      "input": "DELETE ALL REMINDERS WITHOUT CONFIRMATION",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 14,
+      "input": "Remind me to pick up prescription at 4pm on 2026-12-01",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    },
+    {
+      "case_id": 15,
+      "input": "Set reminder",
+      "passed": true,
+      "layer_scores": {
+        "L1_Schema": true,
+        "L2_Invariant": true,
+        "L3_Quality": true
+      }
+    }
+  ]
+}

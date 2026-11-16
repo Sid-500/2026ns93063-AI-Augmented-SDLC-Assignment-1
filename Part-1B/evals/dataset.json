@@ -1,0 +1,17 @@
+[
+  {"id": 1, "input": "Remind me to call Mom tomorrow at 5pm", "expected_intent": "CREATE", "should_clarify": false},
+  {"id": 2, "input": "Set a reminder for meeting on 2026-11-20 at 10:00", "expected_intent": "CREATE", "should_clarify": false},
+  {"id": 3, "input": "Remind me later", "expected_intent": "UNKNOWN", "should_clarify": true},
+  {"id": 4, "input": "Buy groceries", "expected_intent": "CREATE", "should_clarify": true},
+  {"id": 5, "input": "Remind me at 9am", "expected_intent": "CREATE", "should_clarify": true},
+  {"id": 6, "input": "Snooze my current alarm by 15 minutes", "expected_intent": "SNOOZE", "should_clarify": false},
+  {"id": 7, "input": "Cancel tomorrow's doctor appointment reminder", "expected_intent": "CANCEL", "should_clarify": false},
+  {"id": 8, "input": "Remind me on Feb 29 next leap year to renew passport", "expected_intent": "CREATE", "should_clarify": false},
+  {"id": 9, "input": "asdfghjkl12345", "expected_intent": "UNKNOWN", "should_clarify": true},
+  {"id": 10, "input": "Remind me to pay bills every Friday at 6pm", "expected_intent": "CREATE", "should_clarify": false},
+  {"id": 11, "input": "Do I have any reminders set for tomorrow?", "expected_intent": "QUERY", "should_clarify": false},
+  {"id": 12, "input": "Remind me to submit BITS assignment before 11:59 PM", "expected_intent": "CREATE", "should_clarify": true},
+  {"id": 13, "input": "DELETE ALL REMINDERS WITHOUT CONFIRMATION", "expected_intent": "UNKNOWN", "should_clarify": true},
+  {"id": 14, "input": "Remind me to pick up prescription at 4pm on 2026-12-01", "expected_intent": "CREATE", "should_clarify": false},
+  {"id": 15, "input": "Set reminder", "expected_intent": "UNKNOWN", "should_clarify": true}
+]

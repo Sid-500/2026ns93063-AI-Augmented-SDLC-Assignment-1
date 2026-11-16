@@ -47,5 +47,5 @@ python Part-1B/.harness/eval_runner.py
 
 | Component | Architecture | Gates / Layers | Target | Status |
 | :--- | :--- | :--- | :---: | :---: |
-| **Part 1A** | Deterministic CLI | Syntax (`Ruff`), Security (`Bandit`), Tests (`Pytest`) | Pass all gates | **PASS** |
+| **Part 1A** | Deterministic CLI | Syntax (`Ruff`), Security (`Bandit`), Tests (`Pytest`) | Pass all gates | **PASS** |`
 | **Part 1B** | AI Reminder Agent | Layer 1 Schema, Layer 2 Invariants, Layer 3 Quality | ≥ 85.0% | **100.0% PASS** |
